@@ -1,0 +1,122 @@
+[
+    {
+        "location": "kQgQwKGJ",
+        "temperature": 6,
+        "humidity": 0,
+        "wind_speed": 25,
+        "description": "aqiBxEyBmwYn",
+        "sunrise": "12:10",
+        "sunset": "14:41",
+        "pressure": 1030,
+        "visibility": 14,
+        "rainfall": 38
+    },
+    {
+        "location": "TixMeuQb",
+        "temperature": 16,
+        "humidity": 20,
+        "wind_speed": 10,
+        "description": "rkZabceTGBUW",
+        "sunrise": "19:31",
+        "sunset": "08:12",
+        "pressure": 991,
+        "visibility": 16,
+        "rainfall": 1
+    },
+    {
+        "location": "lhCcxLud",
+        "temperature": -21,
+        "humidity": 9,
+        "wind_speed": 44,
+        "description": "EygXhXGIicUJ",
+        "sunrise": "00:18",
+        "sunset": "00:44",
+        "pressure": 1039,
+        "visibility": 12,
+        "rainfall": 3
+    },
+    {
+        "location": "jQWEjvKu",
+        "temperature": -1,
+        "humidity": 20,
+        "wind_speed": 14,
+        "description": "wDPnbZknPCrG",
+        "sunrise": "07:51",
+        "sunset": "05:25",
+        "pressure": 1050,
+        "visibility": 5,
+        "rainfall": 6
+    },
+    {
+        "location": "cxWyrpQp",
+        "temperature": -25,
+        "humidity": 67,
+        "wind_speed": 36,
+        "description": "evMhCwlsiLPj",
+        "sunrise": "19:46",
+        "sunset": "05:18",
+        "pressure": 955,
+        "visibility": 17,
+        "rainfall": 30
+    },
+    {
+        "location": "Eevyurnp",
+        "temperature": 40,
+        "humidity": 43,
+        "wind_speed": 0,
+        "description": "kdnOkgqfhHAE",
+        "sunrise": "15:15",
+        "sunset": "15:18",
+        "pressure": 1098,
+        "visibility": 20,
+        "rainfall": 13
+    },
+    {
+        "location": "PjgqGVov",
+        "temperature": -24,
+        "humidity": 83,
+        "wind_speed": 29,
+        "description": "xdTGWRmfWVju",
+        "sunrise": "14:06",
+        "sunset": "17:53",
+        "pressure": 922,
+        "visibility": 4,
+        "rainfall": 13
+    },
+    {
+        "location": "LlZMHeYt",
+        "temperature": -14,
+        "humidity": 60,
+        "wind_speed": 12,
+        "description": "XxyuYvCwsVob",
+        "sunrise": "13:55",
+        "sunset": "03:37",
+        "pressure": 990,
+        "visibility": 20,
+        "rainfall": 10
+    },
+    {
+        "location": "rPRBZdFz",
+        "temperature": 30,
+        "humidity": 21,
+        "wind_speed": 38,
+        "description": "rLXGEiNLvAbb",
+        "sunrise": "16:15",
+        "sunset": "10:40",
+        "pressure": 923,
+        "visibility": 13,
+        "rainfall": 45
+    },
+    {
+        "location": "jsWjtSih",
+        "temperature": 34,
+        "humidity": 76,
+        "wind_speed": 47,
+        "description": "fCzrrzTHEcYR",
+        "sunrise": "08:19",
+        "sunset": "00:06",
+        "pressure": 988,
+        "visibility": 19,
+        "rainfall": 17
+    }
+]
