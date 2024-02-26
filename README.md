@@ -1,2 +1,2 @@
 # weather-api-data-generator
-A tool for generating test data for API
+A tool for generating test data for my API
